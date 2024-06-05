@@ -144,9 +144,9 @@ This project is licensed under the MIT License.
    git commit -m "Initial commit"
    
 
-4. Add the remote repository (replace `URL_OF_YOUR_REPOSITORY` with the actual URL):
+4. Add the remote repository https://github.com/KodavatiAnisha/Inventory-Management--with--files/edit/main/README.md:
    bash
-   git remote add origin URL_OF_YOUR_REPOSITORY
+   git remote add origin https://github.com/KodavatiAnisha/Inventory-Management--with--files/edit/main/README.md
    
 
 5. Push the changes to GitHub:
